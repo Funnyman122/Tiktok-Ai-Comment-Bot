@@ -1,0 +1,9 @@
+{
+    "openai_model_type": "gpt-3.5-turbo-0301",
+    "openai_api_key": "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",
+    "tiktok_username_email": "mark.l.reinstra@gmail.com",
+    "tiktok_password": "Toolbox@16",
+    "search_query": "https://www.tiktok.com/search?q=school",
+    "user_data_dir": "C:\\Users\\coolguy\\AppData\\Local\\Google\\Chrome\\Tiktok"
+
+}
